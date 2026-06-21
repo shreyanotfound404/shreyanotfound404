@@ -10,7 +10,6 @@ Hey, I'm Shreya!<br><br>A Full Stack Developer who genuinely enjoys building thi
 
 # 📊 GitHub Stats:<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyanotfound404&theme=github_dark)<br>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreyanotfound404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
