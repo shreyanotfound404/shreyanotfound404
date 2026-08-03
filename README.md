@@ -224,16 +224,6 @@ Focused on building modern full-stack web applications and improving my understa
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-[![Shreya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyanotfound404&bg_color=0D1117&color=DC2626&line=B91C1C&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
