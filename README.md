@@ -9,15 +9,28 @@
 ![Web Development](https://img.shields.io/badge/Web-Development-991B1B?style=flat-square)
 ![UI UX](https://img.shields.io/badge/UI%20%2F%20UX-Engineering-EF4444?style=flat-square)
 
+<h2 align="center">Connect me on my socials</h2>
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-DC2626?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanotfound404/)
-[![X](https://img.shields.io/badge/X-450A0A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shreyyaaa_exe)
 [![Email](https://img.shields.io/badge/EMAIL-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreya.rajpal111@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-7F1D1D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyanotfound404)
+[![X](https://img.shields.io/badge/X-450A0A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shreyyaaa_exe)
+
+<h2 align="center">Things I made</h2>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-DC2626?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithshreya.vercel.app)
+[![HAPPY BDAY MAHAK](https://img.shields.io/badge/HAPPY%20BDAY%20MAHAK-B91C1C?style=for-the-badge&logo=vercel&logoColor=white)](https://happy-bday-mahak.vercel.app/)
 
 </div>
 
+
 <div align="center">
 
-<img alt="GitHub contribution snake animation" src="https://cdn.jsdelivr.net/gh/shreyanotfound404/shreyanotfound404@output/github-contribution-grid-snake-dark.svg">
+<a href="https://buildwithshreya.vercel.app/skyline">
+<img alt="Contribution skyline — my GitHub contributions animated as an isometric skyline morphing between a 2D heat map and a 3D city" src="./assets/skyline-preview.gif" width="100%">
+</a>
+
+<a href="https://buildwithshreya.vercel.app/skyline"><strong>view it live →</strong></a>
 
 </div>
 
@@ -41,71 +54,6 @@ Learning never stops — one project at a time.
 * UI-focused web applications
 * Open-source contributions
 * Developer collaborations
-
----
-
-## Tech Stack
-
-### Languages
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,kotlin,html,css&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### Frontend
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-![React Native](https://img.shields.io/badge/React%20Native-DC2626?style=flat-square&logo=react&logoColor=white)
-![Responsive UI](https://img.shields.io/badge/Responsive-UI-B91C1C?style=flat-square)
-![Animations](https://img.shields.io/badge/Web-Animations-991B1B?style=flat-square)
-![Interactive Design](https://img.shields.io/badge/Interactive-Design-EF4444?style=flat-square)
-
-</div>
-
-### Backend & Databases
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### Data & Development Tools
-
-<div align="center">
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-DC2626?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-991B1B?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-B91C1C?style=for-the-badge&logo=powerbi&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-7F1D1D?style=for-the-badge&logo=vitest&logoColor=white)
-
-</div>
-
-### Cloud, Deployment & Tooling
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,npm&theme=dark)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-![Render](https://img.shields.io/badge/Render-DC2626?style=flat-square&logo=render&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-B91C1C?style=flat-square&logo=canva&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-991B1B?style=flat-square&logo=markdown&logoColor=white)
-
-</div>
 
 ---
 
@@ -202,7 +150,6 @@ Focused on building modern full-stack web applications and improving my understa
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyanotfound404&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=B91C1C&text_color=FEE2E2&rank_icon=github"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanotfound404&theme=dark&hide_border=true&background=0D1117&ring=DC2626&fire=B91C1C&currStreakLabel=DC2626"/>
 
@@ -252,22 +199,6 @@ Open To:
   - Open Source Contributions
   - Developer Collaborations
 ```
-
----
-
-## Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT%20ME-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreya.rajpal111@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-991B1B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanotfound404/)
-[![X](https://img.shields.io/badge/X-FOLLOW-B91C1C?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shreyyaaa_exe)
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20CODE-7F1D1D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyanotfound404)
-
-</div>
 
 ---
 
