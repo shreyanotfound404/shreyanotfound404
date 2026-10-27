@@ -19,8 +19,8 @@
 <h2 align="center">Things I made</h2>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-DC2626?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithshreya.vercel.app)
-[![GTA 6 REQUIREMENTS CHECKER](https://img.shields.io/badge/GTA%206%20REQUIREMENTS%20CHECKER-ff2d7b?style=for-the-badge&logo=vercel&logoColor=white)](https://gta-6-requirements.vercel.app)
-[![LootLens](https://img.shields.io/badge/LOOTLENS-ff2d7b?style=for-the-badge&logo=vercel&logoColor=white)](https://lootlens.antideploy.com)
+[![GTA 6 REQUIREMENTS CHECKER](https://img.shields.io/badge/GTA%206%20REQUIREMENTS%20CHECKER-DC2626?style=for-the-badge&logo=vercel&logoColor=white)](https://gta-6-requirements.vercel.app)
+[![LootLens](https://img.shields.io/badge/LOOTLENS-B91C1C?style=for-the-badge&logo=vercel&logoColor=white)](https://lootlens.antideploy.com)
 
 </div>
 
