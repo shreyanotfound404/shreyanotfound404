@@ -210,3 +210,4 @@ Open To:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:DC2626,100:450A0A&height=130&section=footer"/>
+ 
